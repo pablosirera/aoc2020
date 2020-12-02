@@ -1,0 +1,29 @@
+{
+  "name": "aoc2020",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./scripts/start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablosirera/aoc2020.git"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.14",
+    "nodemon": "^2.0.1",
+    "shelljs": "^0.8.3"
+  },
+  "dependencies": {
+    "@arrows/composition": "^1.2.1",
+    "get-caller-file": "^2.0.5",
+    "kleur": "^3.0.3"
+  },
+  "author": "Pablo Sirera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pablosirera/aoc2020/issues"
+  },
+  "homepage": "https://github.com/pablosirera/aoc2020#readme"
+}
